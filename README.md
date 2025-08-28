@@ -32,12 +32,11 @@
 <span> 
 <h4>🎓 Educación </h4> 
   Ingeniería en Tecnologías de la Información - [Universidad de las Fuerzas Armadas ESPE] - (2024-12-05) <br>
-  Profesionales capaces de diseñar, desarrollar, implementar y administrar soluciones tecnológicas que optimicen procesos y resuelvan problemas en organizaciones.
+
 </span>
 
 <span> 
 <h4>📬 Redes Profesionales   </h4> 
-- 📧 Email: rkbm.2300536568@gmail.com <br>
 - 💼 LinkedIn: https://www.linkedin.com/in/katherine-bravo-morillo-47658534a/  <br>
 - 🌍 ORCID: https://orcid.org/0000-0001-6939-7016  
 
