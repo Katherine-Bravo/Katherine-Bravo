@@ -7,7 +7,7 @@
        src="https://cdn.pixabay.com/animation/2023/04/12/11/30/11-30-44-914_512.gif" />  
 
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**Acerca de mí**
-  <p style="text-align: justify;">Soy Katherine Bravo, Ingeniera en Tecnologías de la Información, con formación académica sólida y experiencia en el desarrollo de proyectos tecnológicos, soluciones digitales y aplicaciones prácticas de TICs. Me apasiona aplicar la tecnología para resolver problemas reales y mejorar la eficiencia en entornos educativos y empresariales. A lo largo de mi formación, he participado en proyectos de programación, desarrollo web y móvil, así como trabajos de investigación aplicada, lo que me ha permitido consolidar competencias técnicas y analíticas, además de habilidades en gestión de proyectos y trabajo colaborativo.
+  <p style="text-align: justify;">Soy Ingeniera en Tecnologías de la Información, con formación académica sólida y experiencia en el desarrollo de proyectos tecnológicos, soluciones digitales y aplicaciones prácticas de TICs. Me apasiona aplicar la tecnología para resolver problemas reales y mejorar la eficiencia en entornos educativos y empresariales. A lo largo de mi formación, he participado en proyectos de programación, desarrollo web, así como trabajos de investigación aplicada, lo que me ha permitido consolidar competencias técnicas y analíticas, además de habilidades en gestión de proyectos y trabajo colaborativo.
 
 </p>
 <h4> Lenguajes </h4>
